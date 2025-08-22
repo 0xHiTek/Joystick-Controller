@@ -1,0 +1,13 @@
+Joystick VCC → 5V
+
+Joystick GND → GND
+
+OLED SSD1306 (I²C):
+
+VCC → 5V
+
+GND → GND
+
+SDA → A4
+
+SCL → A5
