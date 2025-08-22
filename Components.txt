@@ -1,0 +1,7 @@
+Arduino Uno R3
+
+Joystick module (X, Y analog + SW digital button)
+
+Optional: 0.96" OLED display (SSD1306, I²C) — for visual demo
+
+Breadboard + jumper wires
